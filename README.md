@@ -171,3 +171,6 @@ Il permet de pratiquer :
 * automatisation ;
 * environnement de développement reproductible.
 
+## 🧪 Test Git
+
+Modification effectuée pour comprendre le fonctionnement de Git.
